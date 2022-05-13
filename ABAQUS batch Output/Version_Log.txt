@@ -1,0 +1,9 @@
+Post_DM
+version 1
+Calculate yield stress and write the list
+Write SDV147 contour plot
+
+version 2
+Add in ploting of stress-strain curve
+Limit SDV147 range
+Directory simplification. 
