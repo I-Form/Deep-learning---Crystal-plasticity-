@@ -1,8 +1,8 @@
 # Deep learning & Crystal plasticity 
  TensorFlow and CPFE for structure property relationship prediction
 
-Licenced by Yuhui Tu, Noel Harrison. 
-Contact noel.harrison@nuigalway.ie 
+Licenced by Yuhui Tu, Noel Harrison, Seán Leen. 
+Contact noel.harrison@universityofgalway.ie 
 
 Please make this reference in your publications if any codes in this repository is adopted.
 
